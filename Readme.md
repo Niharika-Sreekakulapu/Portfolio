@@ -33,7 +33,7 @@ This is a personal portfolio website for Niharika, showcasing her skills, projec
 ![Skills page screenshot](skillspage.png)
 
 ![Projects page screenshot](projectspage1.png)
-(projectspage2.png)
+![Projects page screenshot](projectspage2.png)
 
 ![Contact page screenshot](contactpage.png)
 
@@ -65,3 +65,4 @@ To make this your own portfolio, you can easily customize the following:
 - **LinkedIn:** [https://www.linkedin.com/in/niharikasreekakulapu/](https://www.linkedin.com/in/niharikasreekakulapu/)
 
 - **GitHub:** [https://github.com/Niharika-Sreekakulapu/](https://github.com/Niharika-Sreekakulapu/)
+
